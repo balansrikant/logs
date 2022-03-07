@@ -1,10 +1,10 @@
-Portfolio Summary
-Client Name:,Mr Srikant Balan
-Client Number:,3014972
-Valuation as at,07-03-2022 16:50
-
-Trade date,Settle date,Reference,Description,Unit cost (p),Quantity,Value (£)
-"04/02/2022","04/02/2022","MANAGE FEE","HL Stocks & Shares ISA To A/C 01C0301497220","n/a","n/a","-18.55"
-"24/01/2022","27/01/2022","B182500403","Fidelity Special Situations Class W - Accumulation (GBP) .27 @  4133.333333","4133.333333","0.270000","-11.16"
-"23/01/2022","23/01/2022","URIB88V3X4","Unit Rebate Re-Investment Fidelity Special Situations (Acc)","n/a","n/a","11.16"
-"10/01/2022","10/01/2022","Transfer","Transfer from Income Account ","n/a","n/a","103.37"
+Portfolio Summary,,,,,,
+Client Name:,Mr Srikant Balan,,,,,
+Client Number:,3014972,,,,,
+Valuation as at,07/03/2022 16:50,,,,,
+,,,,,,
+Trade date,Settle date,Reference,Description,Unit cost (p),Quantity,Value
+04/02/2022,04/02/2022,MANAGE FEE,HL Stocks & Shares ISA To A/C 01C0301497220,n/a,n/a,-18.55
+24/01/2022,27/01/2022,B182500403,Fidelity Special Situations Class W - Accumulation (GBP) .27 @  4133.333333,4133.333333,0.27,-11.16
+23/01/2022,23/01/2022,URIB88V3X4,Unit Rebate Re-Investment Fidelity Special Situations (Acc),n/a,n/a,11.16
+10/01/2022,10/01/2022,Transfer,Transfer from Income Account ,n/a,n/a,103.37
