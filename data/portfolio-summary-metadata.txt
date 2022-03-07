@@ -1,0 +1,6 @@
+portfolio-summary-isa-2020.csv
+portfolio-summary-isa-2021.csv
+portfolio-summary-isa-2022.csv
+portfolio-summary-sipp-2020.csv
+portfolio-summary-sipp-2021.csv
+portfolio-summary-sipp-2022.csv
